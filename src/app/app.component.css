@@ -1,0 +1,38 @@
+.title {
+    /* font-family: 'Fira Sans', sans-serif; */
+    /* font-family: "Fira Sans script=all rev=1", "Adobe Blank"; */
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    /* font-style: italic; */
+    padding: 10px;
+    
+    text-align: center;
+}
+.title>img{
+    display: inline;
+    width: 50px;
+    height: 50px;
+}
+h1{
+    display: inline;
+}
+.content {
+}
+.info {
+    font-size: 2em;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+.social_icons{
+    text-align: center;
+}
+.social_icons > a{
+    padding: 0 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.social_icons > a > img{
+    width:50px;
+    height: 50px;
+}
